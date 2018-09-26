@@ -1,0 +1,214 @@
+body {
+  font-family: 'Sintony', sans-serif;
+  color: #5c6369; }
+
+ul, li {
+  display: block;
+  padding: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700; }
+
+.yellow {
+  color: #fea100; }
+
+.red {
+  color: #fe4c8d; }
+
+.main-header {
+  padding-bottom: 24px; }
+
+.logo {
+  margin-top: 24px; }
+
+.menu {
+  margin-top: 32px; }
+
+.menu__item {
+  text-transform: uppercase;
+  font-size: 14px; }
+
+.menu__item a {
+  font-weight: 700;
+  color: #2c465a; }
+
+.cta {
+  color: #fff;
+  background: #fea100;
+  font-weight: 700;
+  font-size: 14px;
+  border: 1px solid white;
+  -webkit-border-radius: 4px;
+          border-radius: 4px;
+  text-transform: uppercase;
+  padding: 15px 0;
+  cursor: pointer; }
+
+.book {
+  width: 200px;
+  margin-top: 17px; }
+
+.book__icon {
+  display: block;
+  background: url(../img/order.png);
+  width: 21px;
+  height: 17px;
+  margin-right: 12px;
+  margin-left: 19px; }
+
+.offer {
+  background: url(../img/first-bg.png) no-repeat center top; }
+
+.title {
+  margin: 220px 0;
+  color: #fff; }
+
+.title__heading {
+  font-size: 56px; }
+
+.title__intro {
+  margin-top: -10px;
+  font-family: "Playfair Display", serif;
+  font-size: 40px; }
+
+.call {
+  background: #edf1f3;
+  padding: 30px;
+  border-bottom: 1px solid #dde3e7; }
+
+.phone__icon {
+  display: block;
+  background: url(../img/phone.png);
+  width: 37px;
+  height: 37px;
+  margin-right: 12px; }
+
+.phone__text {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #14141d;
+  line-height: 20px;
+  font-size: 14px; }
+
+.ystring {
+  line-height: 16px;
+  font-size: 16px; }
+
+.phone__digits {
+  margin-left: 42px;
+  font-family: "Playfair Display", serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 22px;
+  color: #14141d; }
+
+.history {
+  margin-top: 60px; }
+
+.history__title {
+  font-size: 35px;
+  color: #14141d;
+  margin-bottom: 25px; }
+
+.history__text {
+  font-size: 14px; }
+
+.history__button {
+  margin-top: 48px;
+  width: 148px; }
+
+.about {
+  padding: 65px 100px; }
+
+.food-images__item {
+  margin-bottom: 10px; }
+
+.food-images-down {
+  margin-top: 50px; }
+
+.special {
+  background: url("../img/third-bg.png") no-repeat center top;
+  padding-top: 80px; }
+
+.special-title {
+  font-size: 35px;
+  color: #fff;
+  text-align: center; }
+
+.food {
+  text-align: center;
+  -webkit-box-shadow: 0 20px 90px rgba(0, 0, 0, 0.15);
+          box-shadow: 0 20px 90px rgba(0, 0, 0, 0.15);
+  margin-bottom: 130px;
+  margin-top: 20px; }
+
+.food__img {
+  margin-bottom: 45px; }
+
+.food__title {
+  font-size: 26px;
+  margin-bottom: 10px;
+  color: #14141d; }
+
+.food__desc {
+  font-size: 14px;
+  padding: 0 55px; }
+
+.food__details {
+  border-top: 1px solid #e1e1e1;
+  margin: 0 45px;
+  text-align: left;
+  color: #14141d;
+  padding: 22px 0; }
+
+.food__del {
+  text-transform: uppercase;
+  font-size: 13px;
+  width: 78px;
+  border-right: 1px solid #e1e1e1;
+  margin-right: 18px;
+  font-weight: 700; }
+
+.food__phone {
+  font-size: 26px;
+  font-family: "Playfair Display", serif; }
+
+.food__price {
+  font-family: "Playfair Display", serif;
+  font-size: 30px; }
+
+.footer {
+  background: #373844;
+  color: #93989e;
+  font-size: 13px;
+  text-transform: uppercase;
+  padding: 72px 106px; }
+
+.socials {
+  padding-bottom: 47px; }
+
+.socials__item a {
+  width: 52px;
+  height: 52px;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  display: block; }
+
+.socials__item_fb a {
+  background: #3b5998 url("../img/fb.png") no-repeat center; }
+
+.socials__item_tw a {
+  margin: 0 7px;
+  background: #55acee url("../img/tw.png") no-repeat center; }
+
+.socials__item_g a {
+  background: #dd4b39 url("../img/g.png") no-repeat center; }
+
+.line {
+  margin-top: 7px;
+  background: #93989e;
+  height: 1px; }
+
+.credits {
+  text-align: center; }
